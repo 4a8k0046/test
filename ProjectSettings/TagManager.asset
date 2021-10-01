@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floor
+  - Blocks
+  - Legs
+  - Clone
+  - Floor_4
+  - Right_switch
+  - Left_switch
+  - Body
+  - Block_Floor
+  - Door
+  - Floor_2
+  - Ladder
+  - Right_Wall
+  - Left_Wall
+  - CannotBeObscured
+  - ClueInUI
+  - PropInScence
+  - Books
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Doors
+  - Books
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 4014684805
+    locked: 0
